@@ -1,0 +1,10 @@
+pandas
+re
+nltk
+pymorphy2
+gensim
+sklearn
+itertools
+pickle
+flask
+time
